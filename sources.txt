@@ -1,0 +1,14 @@
+C:\Users\admin\IdeaProjects\GBord\out\production\GBord\Main.class
+C:\Users\admin\IdeaProjects\GBord\out\production\GBord\com\gbord\launcher.class
+C:\Users\admin\IdeaProjects\GBord\out\production\GBord\com\gbord\ui\AppActivity$1.class
+C:\Users\admin\IdeaProjects\GBord\out\production\GBord\com\gbord\ui\AppActivity$2.class
+C:\Users\admin\IdeaProjects\GBord\out\production\GBord\com\gbord\ui\AppActivity$3.class
+C:\Users\admin\IdeaProjects\GBord\out\production\GBord\com\gbord\ui\AppActivity$4.class
+C:\Users\admin\IdeaProjects\GBord\out\production\GBord\com\gbord\ui\AppActivity$5.class
+C:\Users\admin\IdeaProjects\GBord\out\production\GBord\com\gbord\ui\AppActivity$6.class
+C:\Users\admin\IdeaProjects\GBord\out\production\GBord\com\gbord\ui\AppActivity$7.class
+C:\Users\admin\IdeaProjects\GBord\out\production\GBord\com\gbord\ui\AppActivity.class
+C:\Users\admin\IdeaProjects\GBord\out\production\GBord\com\gbord\ui\FontStyle.class
+C:\Users\admin\IdeaProjects\GBord\out\production\GBord\com\gbord\ui\SplashScreen$1.class
+C:\Users\admin\IdeaProjects\GBord\out\production\GBord\com\gbord\ui\SplashScreen.class
+C:\Users\admin\IdeaProjects\GBord\out\production\GBord\com\gbord\ui\Window.class
